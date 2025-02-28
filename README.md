@@ -17,6 +17,10 @@ This repository contains two Malloy code files:
 - [`satisfaction-analysis.malloy`](satisfaction-analysis.malloy), sources all the data tables for the data analysis portion of this repository.
 - [`satisfaction-analysis.malloynb`](satisfaction-analysis.malloynb), performs the analysis piece of the data provided by the Data Liberation Project.
 
+## Why Malloy?
+[Malloy](https://malloydata.dev) is an open source data language, and a decent alternative to pandas, ggplot, and SQL!
+
+
 ## How see the analysis yourself
 Are you logged into github? Just press the period key right now. Then do the following:
 | **Step**   | **Image Preview** |
