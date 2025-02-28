@@ -4,7 +4,7 @@ This repository contains data obtained by the [Data Liberation Project](https://
 
 ## Summary of Findings
 
-What did we find? Well let me tell you! With **images**!
+What did we find? Well let me tell you! With **images**! Include at least 5 screenshots of visualizations!
 
 ## Background and Motivation
 
@@ -18,11 +18,11 @@ This repository contains two Malloy code files:
 - [`satisfaction-analysis.malloynb`](satisfaction-analysis.malloynb), performs the analysis piece of the data provided by the Data Liberation Project.
 
 ## Why Malloy?
-[Malloy](https://malloydata.dev) is an open source data language, and a decent alternative to pandas, ggplot, and SQL!
+[Malloy](https://malloydata.dev) is an open source semantic data language, and a compelling alternative to pandas, ggplot, and SQL!
 
 
 ## How see the analysis yourself
-Are you logged into github? Just press the period key right now. Then do the following:
+Are you logged into github? Just press the period key right now. This will load the web editor. Then install the malloy extension. See images below for reference:
 | **Step**   | **Image Preview** |
 |--------|-----------|
 | `Step 1 - Press allow` | <img src="step1.png" width="50%"> |
